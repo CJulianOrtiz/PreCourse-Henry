@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Repositorio de Prueba PreCourse Henry
+Este repositorio es una prueba de como clonar y acceder a hacer cambios desde mi computadora local.
